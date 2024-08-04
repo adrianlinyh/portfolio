@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "Typing on my keyboard is my passion, so I started to code. ",
+      title: "My passion is creating things, thus began my journey. ",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -29,7 +29,7 @@ export const navItems = [
     {
       id: 3,
       title: "My tech stack",
-      description: "I constantly try to improve",
+      description: "I am constantly trying to improve",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-center",
@@ -73,17 +73,17 @@ export const navItems = [
     {
       id: 1,
       title: "Space",
-      des: "A full-stack project. Allows users to book a space for events, co-working, seminars etc. with an A.I Chatbot to handle customer questions.",
+      des: "A full-stack capstone project. Allows users to book a space for events, co-working, seminars etc. with an A.I Chatbot to handle customer questions.",
       img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      iconLists: ["/re.svg", "/bootstrap.svg", "/redux.svg", "/postgre.svg", "/nodejs.svg", '/firebase.svg', '/gemini.svg'],
       link: "https://capstone-project-seven-zeta.vercel.app/",
     },
     {
       id: 2,
-      title: "Twitter Clone",
-      des: "A full-stack project. Twitter inspired clone, made for PC. Happy Tweeting!",
+      title: "Twitter Clone (PC-only)",
+      des: "A Twitter inspired clone, made for PC. Happy Tweeting!",
       img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+      iconLists: ["/re.svg", "/bootstrap.svg", "/redux.svg", '/firebase.svg'],
       link: "https://twitter-clone-lake-iota.vercel.app/",
     },
     {
@@ -91,7 +91,7 @@ export const navItems = [
       title: "Restaurant Reservation Web-App",
       des: "My first fullstack project that utilizes CRUD functions. Users can create restaurants and set, delete and update their reservations.",
       img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+      iconLists: ["/re.svg", "/bootstrap.svg", "/redux.svg", "/postgre.svg", "/nodejs.svg"],
       link: "https://github.com/adrianlinyh/Booking-App",
     },
     {
@@ -99,8 +99,8 @@ export const navItems = [
       title: "This website!",
       des: "Built a website to display my projects. Utilized Framer Motion and TypeScript.",
       img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      link: "https://github.com/adrianlinyh/portfolio",
     },
   ];
   
