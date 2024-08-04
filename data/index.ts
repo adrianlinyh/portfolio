@@ -59,7 +59,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Do you want to contact me?",
+      title: "Need my email?",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -107,33 +107,27 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Adrian is an extremely hard worker. I enjoyed collaborating with him on certain tasks and he was excellent throughout. A great communicator as well, shown when he dealt with C-Suites with confidence and ease. Companies not looking to add him to their team would be losing out.",
+      name: "B.L.",
+      title: "Director, Anonymous",
     },
     {
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      name: "J.T.",
+      title: "Product Manager, A.I Startup",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Great sense of humour, witty and full of wise words. Adrian has a give-and-take with advice, trading words and insight - leading to great outcomes. The team has grown since he joined and was sad to see him leave, but wherever he goes, the grass will always be greener.",
+      name: "M.T",
+      title: "Manager, Anonymous",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Adrian has been an exceptional asset to our team. His dedication and work ethic are truly impressive, consistently going above and beyond to meet and exceed expectations. His creativity and problem-solving skills have been instrumental in overcoming challenges and driving our projects forward. Working with Adrian is a pleasure due to his professionalism and positive attitude. He brings energy and excellence to every task, making a significant impact on our team’s success.",
+      name: "L.Y.P",
+      title: "CHRO, Anonymous",
     },
   ];
   
@@ -173,29 +167,29 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Bootcamp Graduate",
+      desc: "Built projects with the React, Bootstrap and Redux stack - during and after bootcamp graduation.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Consultant",
+      desc: "Top performer and award-winning consultant at an MNC Consultancy Agency.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "Tax Associate",
+      desc: "Joined the Big4 in Accounting in my first job, learning discipline and work-standard.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Freelance",
+      desc: "Working and gaining experience wherever and whenever I can.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
